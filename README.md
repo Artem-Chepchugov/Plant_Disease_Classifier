@@ -1,5 +1,5 @@
 # Классификация болезней растений по изображениям листьев
-> В работе используется датасет [PlantVillage](https://github.com/spMohanty/PlantVillage-Dataset.git)
+> В работе использовались цветные картинки (PlantVillage-Dataset/raw/color/) из датасета [PlantVillage](https://github.com/spMohanty/PlantVillage-Dataset.git). Для проверки работы кода рекомендуется установить его и разместить в соответствии с указанной ниже структурой проекта.
 
 ---
 
